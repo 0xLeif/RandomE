@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EKit",
+        "repositoryURL": "https://github.com/0xLeif/EKit",
+        "state": {
+          "branch": null,
+          "revision": "646553d3f5e043542f1eeebd755b42cf9dd0d378",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "9564d61b08a5335ae0a36f789a7d71493eacadfc",
+          "version": "0.3.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
