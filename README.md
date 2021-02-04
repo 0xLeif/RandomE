@@ -1,3 +1,15 @@
 # RandomE
 
-A description of this package.
+Get a Random Emoji from a Keyword!
+
+## Examples
+
+```
+swift run RandomE dog
+🌭
+```
+
+```
+swift run RandomE and
+👩🏼‍🤝‍👨🏾
+```
